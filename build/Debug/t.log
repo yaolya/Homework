@@ -1,7 +1,2 @@
-﻿  task4.cpp
-C:\Users\Olya\Desktop\cpp2\t\Task 4\task4.cpp(30,11): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Olya\Desktop\cpp2\t\Task 4\task4.cpp(44,11): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Olya\Desktop\cpp2\t\Task 4\task4.cpp(64,12): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Olya\Desktop\cpp2\t\Task 4\task4.cpp(65,9): warning C4018: >=: несоответствие типов со знаком и без знака
-C:\Users\Olya\Desktop\cpp2\t\Task 4\task4.cpp(115,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+﻿  task1.cpp
   t.vcxproj -> C:\Users\Olya\Desktop\cpp2\t\build\Debug\t.exe
